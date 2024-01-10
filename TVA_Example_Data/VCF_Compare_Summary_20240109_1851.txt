@@ -1,0 +1,12 @@
+SUMMARY OF VCF COMPARISON PERFORMED BY BT ON 20240109_1851 
+ 
+** See Log File For VCF Callers Used ** 
+ 
+
+Number Variants Common In All VCFs: 2
+Number Variants Unique In VCF1: 2
+Number Variants Unique In VCF2: 1
+Number Variants Unique In VCF3: 2
+Number Variants Common To VCF1 And VCF2 Only: 2
+Number Variants Common To VCF1 And VCF3 Only: 1
+Number Variants Common To VCF2 and VCF3 Only: 2
